@@ -2,11 +2,19 @@
   <img src=".github/logo.png" width=300 alt="Projeto Modelo">
 </p>
 
-![Badge](https://img.shields.io/github/last-commit/nlnadialigia/projeto-modelo?color=3E0576&style=plastic)
-![Badge](https://img.shields.io/github/languages/top/nlnadialigia/projeto-modelo?color=3E0576&logoColor=3E0576&style=plastic)
-[![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg?color=3E0576&style=plastic)](http://commitizen.github.io/cz-cli/)
-[![Linkedin](https://img.shields.io/badge/made%20by-N%C3%A1dia%20Ligia-3E0576?color=3E0576&style=plastic)](https://www.linkedin.com/in/nlnadialigia/)
-[![GitHub](https://img.shields.io/github/license/nlnadialigia/projeto-modelo?color=3E0576&style=plastic)]("./LICENSE.md")
+<p align="center">
+  <img src="https://img.shields.io/github/last-commit/nlnadialigia/projeto-modelo?color=3E0576&style=plastic">
+  <img src="https://img.shields.io/github/languages/top/nlnadialigia/projeto-modelo?color=3E0576&logoColor=3E0576&style=plastic">
+  <a href="http://commitizen.github.io/cz-cli/">  
+    <img src="https://img.shields.io/badge/commitizen-friendly-brightgreen.svg?color=3E0576&style=plastic">
+  </a>
+  <a href="https://www.linkedin.com/in/nlnadialigia/">  
+    <img src="https://img.shields.io/badge/made%20by-Nadia%20Ligia-3E0576?color=3E0576&style=plastic">
+  </a>
+  <a href="./LICENSE.md">  
+    <img src="https://img.shields.io/github/license/nlnadialigia/projeto-modelo?color=3E0576&style=plastic">
+  </a>
+</p>
 
 <br>
 
