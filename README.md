@@ -156,6 +156,8 @@ Template com a configuração de um projeto base com Typescript, Eslint, Husky, 
 
 <br>
 
+<div id="id98"></div>
+
 ## 📌 Bibliotecas e Ferramentas
 
 #### 📎 Dependências de desenvolvimento
